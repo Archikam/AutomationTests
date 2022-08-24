@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-24T11:20:13 YEKT" name="Command line suite" finished-at="2022-08-24T11:20:18 YEKT" duration-ms="4951">
+    <groups>
+    </groups>
+    <test started-at="2022-08-24T11:20:13 YEKT" name="Command line test" finished-at="2022-08-24T11:20:18 YEKT" duration-ms="4951">
+      <class name="TestFirstSelenium">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestFirstSelenium@515aebb0]" started-at="2022-08-24T11:20:13 YEKT" name="beforeMethod" finished-at="2022-08-24T11:20:15 YEKT" duration-ms="2013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testFirstSelenium()[pri:0, instance:TestFirstSelenium@515aebb0]" started-at="2022-08-24T11:20:15 YEKT" name="testFirstSelenium" finished-at="2022-08-24T11:20:18 YEKT" duration-ms="2784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFirstSelenium -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestFirstSelenium@515aebb0]" started-at="2022-08-24T11:20:18 YEKT" name="afterMethod" finished-at="2022-08-24T11:20:18 YEKT" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestFirstSelenium -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
